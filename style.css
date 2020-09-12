@@ -1,0 +1,13 @@
+body {
+    background-color: steelblue;
+}
+
+div > h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    border-style: double;
+}
+
+a { color: white;
+    text-transform: capitalize;
+
+}
